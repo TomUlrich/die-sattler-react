@@ -24,7 +24,9 @@ dist-ssr
 *.sw?
 
 # My files
-
-# *.md
+45127132117136197106158632711371752472695923.ico
+desktop.ini
+*.md
 !README.md
 .env
+docs/

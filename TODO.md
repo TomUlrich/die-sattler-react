@@ -49,3 +49,8 @@ export default function LandingPage() {
   return <div>Landing Page</div>;
 }
 ```
+
+## Mobile menu Animation effect
+
+https://chatgpt.com/c/6814a958-2780-800d-8ce5-488219643a61
+
